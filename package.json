@@ -1,0 +1,22 @@
+{
+  "name": "awaitfs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hershyheilpern/awaitfs.git"
+  },
+  "author": "Hershy Heilpern",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hershyheilpern/awaitfs/issues"
+  },
+  "homepage": "https://github.com/hershyheilpern/awaitfs#readme"
+}
